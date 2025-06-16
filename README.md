@@ -6,12 +6,3 @@ This project demonstrates three different approaches to state management in a Re
 - 💥 **Recoil** – Modern and flexible state management with atoms and selectors.
 - ⚛️ **React Native State** – Built-in state management using `useState` and `useContext`.
 
-## 📂 Project Structure
-
-```bash
-/src
-  /redux       # Redux implementation
-  /recoil      # Recoil implementation
-  /context     # React useContext/useState implementation
-  /components  # Shared UI components
-  App.js       # Root component with router/switch
